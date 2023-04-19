@@ -1,0 +1,7 @@
+{
+	"app": "python3 cdk_app.py",
+	"context": {
+		"project_name": "cdk-eb-flask",
+		"env": "dev"
+	}
+}
